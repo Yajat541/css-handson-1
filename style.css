@@ -1,0 +1,37 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style:italic;
+}
+ol{
+    color: maroon;
+}
+.It{
+    text-decoration: line-through;
+}
+.bgcolor{
+    text-decoration: underline;
+    background-color: yellow;
+}
+.ui{
+    background-color: yellow;
+    font-weight: bold;
+}
+.container1{
+    line-height: 50px;
+}
+.container2{
+    color: rgba(128, 0, 0, 0.876);
+    letter-spacing: 5px;
+}
+.para{
+    color: rgba(128, 0, 0, 0.871);
+}
+a{
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+    text-decoration: none;
+}
